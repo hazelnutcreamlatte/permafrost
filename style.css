@@ -1,0 +1,45 @@
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  background: #f8f9fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2d6cdf;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+section {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
+section h2 {
+  color: #2d6cdf;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+.profile img {
+  width: 120px;
+  border-radius: 50%;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.job {
+  margin-bottom: 2rem;
+}
+
+footer {
+  background-color: #eee;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+}
